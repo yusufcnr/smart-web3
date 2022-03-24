@@ -13,19 +13,10 @@ contract ReadWrite {
     }
 
     function writeData(string memory _myString) public {
-
         
         myString = _myString;
-
     }
-
-
-    function sub (uint8 a, uint8 b) public pure returns (uint) {
-
-        return a - b;
-    } 
-
-}
+    }
 
 
 
