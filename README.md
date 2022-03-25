@@ -1,2 +1,4 @@
 # smart-web3
-this repo is generated in order to work with my friends on web3 developments.
+We are a team of 4 engineer from Ankara and heading to web3 development.
+I will use this repo for the pair programming sessions we do.
+I hope we will have so many project under this repo.
